@@ -19,9 +19,10 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 Após ter feito o download de todos os pré-requisitos, basta realizar a instalação seguindo o passo-a-passo.
 
-## ⚙️ Executando os testes
+## ⚙️ Executando local e testes
 
-Para este sistema, fiz testes com junit4, para executá-los basta ir em: intelliJ -> Abrir o projeto -> src/test/java -> botão direito em 'java' -> 'Run tests...'
+* Após finalizar as instalações necessárias, importe o projeto no intelliJ e depois vá em 'Run...'.
+* Para este sistema, fiz testes com junit4, para executá-los basta ir em: intelliJ -> Abrir o projeto -> src/test/java -> botão direito em 'java' -> 'Run tests...'
 
 ## 🛠️ Construído com
 
