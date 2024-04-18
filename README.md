@@ -24,6 +24,8 @@ Após ter feito o download de todos os pré-requisitos, basta realizar a instala
 * Após finalizar as instalações necessárias, importe o projeto no intelliJ e depois vá em 'Run...'.
 * Para este sistema, fiz testes com junit4, para executá-los basta ir em: intelliJ -> Abrir o projeto -> src/test/java -> botão direito em 'java' -> 'Run tests...'
 * Diagramas: os diagramas do sistema encontram-se em src/main/resources/diagrams/
+* Para acessar a interface do banco de dados local: http://localhost:8080/h2
+* Para acessar a documentação da API via swagger local: http://localhost:8080/swagger-ui/index.html#/
 
 ## 🛠️ Construído com
 
