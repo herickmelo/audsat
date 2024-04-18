@@ -26,7 +26,8 @@ Após ter feito o download de todos os pré-requisitos, basta realizar a instala
 * Diagramas: os diagramas do sistema encontram-se em src/main/resources/diagrams/
 * Para acessar a interface do banco de dados local: http://localhost:8080/h2
 * Para acessar a documentação da API via Swagger UI local: http://localhost:8080/swagger-ui/index.html#/
-* O arquivo YAML é gerado via Swagger, basta clicar em: ![image](https://github.com/herickmelo/audsat/assets/13454651/06ae1af9-33e5-4b85-a021-e09a5a82f875)
+* O arquivo YAML é gerado via Swagger, basta clicar em:
+* ![image](https://github.com/herickmelo/audsat/assets/13454651/06ae1af9-33e5-4b85-a021-e09a5a82f875)
 
 
 ## 🛠️ Construído com
