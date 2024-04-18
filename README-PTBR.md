@@ -10,12 +10,12 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
 ### 📋 Pré-requisitos
 
-Java 17: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
-Spring 3.2.4
-Gradle 8.7: https://gradle.org/
-IntelliJ IDEA 2024.1 (Community Edition): https://www.jetbrains.com/idea/download/?section=windows
-Git: https://git-scm.com/downloads
-Postman: https://www.postman.com/downloads/
+* Java 17: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
+* Spring 3.2.4
+* Gradle 8.7: https://gradle.org/
+* IntelliJ IDEA 2024.1 (Community Edition): https://www.jetbrains.com/idea/download/?section=windows
+* Git: https://git-scm.com/downloads
+* Postman: https://www.postman.com/downloads/
 
 ```
 Utilizei estes sofwares e versões no desenvolvimento do projeto.
