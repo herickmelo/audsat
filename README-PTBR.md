@@ -6,8 +6,6 @@ Projeto Audsat Seguros que realiza o orçamento de seguros de veículos.
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
-
 ### 📋 Pré-requisitos
 
 * Java 17: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
