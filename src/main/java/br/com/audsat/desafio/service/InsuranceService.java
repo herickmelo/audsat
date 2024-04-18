@@ -72,10 +72,6 @@ public class InsuranceService {
         return new_budget;
     }
 
-    public List<Insurance> getAll(){
-        return insuranceRepository.findAll();
-    }
-
     public InsuranceDTO updateById(Long id, InsuranceDTO insuranceDTO) {
         Optional<Insurance> optInsurance = insuranceRepository.findById(id);
         if (optInsurance.isPresent()){
