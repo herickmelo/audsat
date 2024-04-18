@@ -1,10 +1,6 @@
 package br.com.audsat.desafio.controller;
 
 import br.com.audsat.desafio.dto.InsuranceDTO;
-import br.com.audsat.desafio.entity.Driver;
-import br.com.audsat.desafio.entity.Insurance;
-import br.com.audsat.desafio.repository.DriverRepository;
-import br.com.audsat.desafio.repository.InsuranceRepository;
 import br.com.audsat.desafio.service.InsuranceService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

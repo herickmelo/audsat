@@ -24,4 +24,5 @@ public class Insurance {
     @ManyToOne
     private Car car;
     private Boolean isActive;
+    private Double budget;
 }

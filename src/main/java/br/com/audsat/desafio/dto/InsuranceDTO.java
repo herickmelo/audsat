@@ -19,4 +19,5 @@ public class InsuranceDTO {
     private LocalDateTime updatedDate;
     private Car car;
     private Boolean isActive;
+    private Double budget;
 }
