@@ -43,7 +43,7 @@ public class InsuranceService {
     }
 
     private Double calculateBaseBudget(Insurance insurance, Float fipeValue) {
-        return ((double)10/100) * fipeValue;
+        return ((double)6/100) * fipeValue;
     }
 
     private Double calculateBudgetCarClaim(Insurance insurance, Double new_budget, Float fipeValue) {
